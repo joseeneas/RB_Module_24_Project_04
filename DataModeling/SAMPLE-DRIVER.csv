@@ -1,0 +1,3 @@
+﻿DriverID,DriverRef,DriverCode,DriverFirstName,DriverLastName,DriverDOB,DriverNationality,DriverURL,Active2018,Active2019,Active2020,Active2021,Active2022,Podiums2018,Podiums2019,Podiums2020,Podiums2021,Podiums2022,Points2018,Points2019,Points2020,Points2021,Points2022,Team2018,Team2019,Team2020,Team2021,Team2022,DriverTotalRaces,DriverWorldchampionships,HighestRaceFinish,HighestGridPosition
+1,JAMES,JAM,JAMES,CLARK,1980-01-01,USA,,Y,Y,Y,Y,Y,1,2,2,1,0,10,10,15,20,30,WILLIAMS,WILLIAMS,WILLIAMS,WILLIAMS,WILLIAMS,200,0,1,1
+1,SMITH,SSM,SEAN,SMITH,1990-12-17,ENGLAND,,N,Y,Y,Y,Y,1,0,2,1,0,10,10,15,20,30,WILLIAMS,WILLIAMS,WILLIAMS,WILLIAMS,WILLIAMS,200,0,1,1

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "650de567a885b9e49bbcc26f"
+  },
+  "Year": 2021,
+  "Circuit": "MONACO",
+  "TeamID": 1,
+  "DriverID": 1,
+  "StartPostion": 1,
+  "EndPosition": 1
+},
+{
+  "_id": {
+    "$oid": "650de567a885b9e49bbcc270"
+  },
+  "Year": 2022,
+  "Circuit": "MONACO",
+  "TeamID": 1,
+  "DriverID": 2,
+  "StartPostion": 14,
+  "EndPosition": 3
+}]

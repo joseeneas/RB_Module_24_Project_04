@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "650de3bfa885b9e49bbcc26a"
+  },
+  "teamid": 1,
+  "Team ": "WILLIAMS",
+  "TeamFullName": "WILLIAMS",
+  "nationality": "ENGLAND",
+  "Active2018": "Y",
+  "Active2019": "Y",
+  "Active2020": "Y",
+  "Active2021": "Y",
+  "Active2022": "Y",
+  "First Team Entry": 1970,
+  "World Championships": 25,
+  "Highest Race Finish": 1,
+  "Pole Positions": 120
+},
+{
+  "_id": {
+    "$oid": "650de3bfa885b9e49bbcc26b"
+  },
+  "teamid": 2,
+  "Team ": "FERRARI",
+  "TeamFullName": "SCUDERIA FERRARI",
+  "nationality": "ITALY",
+  "Active2018": "Y",
+  "Active2019": "Y",
+  "Active2020": "Y",
+  "Active2021": "Y",
+  "Active2022": "Y",
+  "First Team Entry": 1950,
+  "World Championships": 30,
+  "Highest Race Finish": 1,
+  "Pole Positions": 200
+}]
