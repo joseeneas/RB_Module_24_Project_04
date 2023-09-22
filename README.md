@@ -22,14 +22,14 @@ Refer to Documents/Project 4 - Group 3 - Proposal.PPTX
 
 ## Project Repository Organization
 
-### DataModeling - Folder for Data Modeling files, such as Table Layout to be used to create the database objects in MongoDB.
+### DataModeling - Folder for Data Modeling files, such as Table Layout to be used to create the database objects in MongoDB
 
-### Documents - Folder for Project Documents, such as Proposal, Presentation, etc.
+### Documents - Folder for Project Documents, such as Proposal, Presentation, etc
 
-### Images - Folder for Project Images, such as cars images, drivers pictures, etc.
+### Images - Folder for Project Images, such as cars images, drivers pictures, etc
 
-### Notebooks - Folder for Project Jupyter Notebooks, such as Data Cleaning, Data Analysis, etc.
+### Notebooks - Folder for Project Jupyter Notebooks, such as Data Cleaning, Data Analysis, etc
 
-### Resources - Folder for Project Resources, such as CSV files, etc.
+### Resources - Folder for Project Resources, such as CSV files, etc
 
-### READEME.md - This file
+### README.md - This file
