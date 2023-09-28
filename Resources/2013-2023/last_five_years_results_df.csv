@@ -18,7 +18,7 @@
 26,Bahrain,7,14,Fernando Alonso,McLaren Renault,13.0,56,+1 lap,6.0,2018
 27,Bahrain,8,2,Stoffel Vandoorne,McLaren Renault,14.0,56,+1 lap,4.0,2018
 28,Bahrain,9,9,Marcus Ericsson,Alfa Romeo Racing Ferrari,17.0,56,+1 lap,2.0,2018
-29,Bahrain,10,31,Esteban Ocon,Force India Mercedes,8.0,56,+1 lap,1.0,2018
+29,Bahrain,10,31,Esteban Ocon,Aston Martin,8.0,56,+1 lap,1.0,2018
 40,China,1,3,Daniel Ricciardo,Red Bull Racing Tag Heuer,6.0,56,35:36.4,25.0,2018
 41,China,2,77,Valtteri Bottas,Mercedes,3.0,56,8.894,18.0,2018
 42,China,3,7,Kimi RaikkAAPnen,Ferrari,2.0,56,9.637,15.0,2018
@@ -31,7 +31,7 @@
 49,China,10,20,Kevin Magnussen,Haas Ferrari,11.0,56,39.594,1.0,2018
 60,Azerbaijan,1,44,Lewis Hamilton,Mercedes,2.0,51,43:44.3,25.0,2018
 61,Azerbaijan,2,7,Kimi RaikkAAPnen,Ferrari,6.0,51,2.46,18.0,2018
-62,Azerbaijan,3,11,Sergio Perez,Force India Mercedes,8.0,51,4.024,15.0,2018
+62,Azerbaijan,3,11,Sergio Perez,Aston Martin,8.0,51,4.024,15.0,2018
 63,Azerbaijan,4,5,Sebastian Vettel,Ferrari,1.0,51,5.329,12.0,2018
 64,Azerbaijan,5,55,Carlos Sainz,Alpine,9.0,51,7.515,10.0,2018
 65,Azerbaijan,6,16,Charles Leclerc,Alfa Romeo Racing Ferrari,13.0,51,9.158,8.0,2018
@@ -47,14 +47,14 @@
 85,Spain,6,20,Kevin Magnussen,Haas Ferrari,7.0,65,+1 lap,8.0,2018
 86,Spain,7,55,Carlos Sainz,Alpine,9.0,65,+1 lap,6.0,2018
 87,Spain,8,14,Fernando Alonso,McLaren Renault,8.0,65,+1 lap,4.0,2018
-88,Spain,9,11,Sergio Perez,Force India Mercedes,15.0,64,+2 laps,2.0,2018
+88,Spain,9,11,Sergio Perez,Aston Martin,15.0,64,+2 laps,2.0,2018
 89,Spain,10,16,Charles Leclerc,Alfa Romeo Racing Ferrari,14.0,64,+2 laps,1.0,2018
 100,Monaco,1,3,Daniel Ricciardo,Red Bull Racing Tag Heuer,1.0,78,42:54.8,25.0,2018
 101,Monaco,2,5,Sebastian Vettel,Ferrari,2.0,78,7.336,18.0,2018
 102,Monaco,3,44,Lewis Hamilton,Mercedes,3.0,78,17.013,15.0,2018
 103,Monaco,4,7,Kimi RaikkAAPnen,Ferrari,4.0,78,18.127,12.0,2018
 104,Monaco,5,77,Valtteri Bottas,Mercedes,5.0,78,18.822,10.0,2018
-105,Monaco,6,31,Esteban Ocon,Force India Mercedes,6.0,78,23.667,8.0,2018
+105,Monaco,6,31,Esteban Ocon,Aston Martin,6.0,78,23.667,8.0,2018
 106,Monaco,7,10,Pierre Gasly,AlphaTauri Honda,10.0,78,24.331,6.0,2018
 107,Monaco,8,27,Nico Hulkenberg,Alpine,11.0,78,24.839,4.0,2018
 108,Monaco,9,33,Max Verstappen,Red Bull Racing Tag Heuer,20.0,78,25.317,2.0,2018
@@ -67,7 +67,7 @@
 125,Canada,6,7,Kimi RaikkAAPnen,Ferrari,5.0,68,27.184,8.0,2018
 126,Canada,7,27,Nico Hulkenberg,Alpine,7.0,67,+1 lap,6.0,2018
 127,Canada,8,55,Carlos Sainz,Alpine,9.0,67,+1 lap,4.0,2018
-128,Canada,9,31,Esteban Ocon,Force India Mercedes,8.0,67,+1 lap,2.0,2018
+128,Canada,9,31,Esteban Ocon,Aston Martin,8.0,67,+1 lap,2.0,2018
 129,Canada,10,16,Charles Leclerc,Alfa Romeo Racing Ferrari,13.0,67,+1 lap,1.0,2018
 140,France,1,44,Lewis Hamilton,Mercedes,1.0,53,30:11.4,25.0,2018
 141,France,2,33,Max Verstappen,Red Bull Racing Tag Heuer,4.0,53,7.09,18.0,2018
@@ -84,8 +84,8 @@
 162,Austria,3,5,Sebastian Vettel,Ferrari,6.0,71,3.181,15.0,2018
 163,Austria,4,8,Romain Grosjean,Haas Ferrari,5.0,70,+1 lap,12.0,2018
 164,Austria,5,20,Kevin Magnussen,Haas Ferrari,8.0,70,+1 lap,10.0,2018
-165,Austria,6,31,Esteban Ocon,Force India Mercedes,11.0,70,+1 lap,8.0,2018
-166,Austria,7,11,Sergio Perez,Force India Mercedes,15.0,70,+1 lap,6.0,2018
+165,Austria,6,31,Esteban Ocon,Aston Martin,11.0,70,+1 lap,8.0,2018
+166,Austria,7,11,Sergio Perez,Aston Martin,15.0,70,+1 lap,6.0,2018
 167,Austria,8,14,Fernando Alonso,McLaren Renault,20.0,70,+1 lap,4.0,2018
 168,Austria,9,16,Charles Leclerc,Alfa Romeo Racing Ferrari,17.0,70,+1 lap,2.0,2018
 169,Austria,10,9,Marcus Ericsson,Alfa Romeo Racing Ferrari,18.0,70,+1 lap,1.0,2018
@@ -95,18 +95,18 @@
 183,Great Britain,4,77,Valtteri Bottas,Mercedes,4.0,52,8.883,12.0,2018
 184,Great Britain,5,3,Daniel Ricciardo,Red Bull Racing Tag Heuer,6.0,52,9.5,10.0,2018
 185,Great Britain,6,27,Nico Hulkenberg,Alpine,11.0,52,28.22,8.0,2018
-186,Great Britain,7,31,Esteban Ocon,Force India Mercedes,10.0,52,29.93,6.0,2018
+186,Great Britain,7,31,Esteban Ocon,Aston Martin,10.0,52,29.93,6.0,2018
 187,Great Britain,8,14,Fernando Alonso,McLaren Renault,13.0,52,31.115,4.0,2018
 188,Great Britain,9,20,Kevin Magnussen,Haas Ferrari,7.0,52,33.188,2.0,2018
-189,Great Britain,10,11,Sergio Perez,Force India Mercedes,12.0,52,34.708,1.0,2018
+189,Great Britain,10,11,Sergio Perez,Aston Martin,12.0,52,34.708,1.0,2018
 200,Germany,1,44,Lewis Hamilton,Mercedes,14.0,67,32:29.8,25.0,2018
 201,Germany,2,77,Valtteri Bottas,Mercedes,2.0,67,4.535,18.0,2018
 202,Germany,3,7,Kimi RaikkAAPnen,Ferrari,3.0,67,6.732,15.0,2018
 203,Germany,4,33,Max Verstappen,Red Bull Racing Tag Heuer,4.0,67,7.654,12.0,2018
 204,Germany,5,27,Nico Hulkenberg,Alpine,7.0,67,26.609,10.0,2018
 205,Germany,6,8,Romain Grosjean,Haas Ferrari,6.0,67,28.871,8.0,2018
-206,Germany,7,11,Sergio Perez,Force India Mercedes,10.0,67,30.556,6.0,2018
-207,Germany,8,31,Esteban Ocon,Force India Mercedes,15.0,67,31.75,4.0,2018
+206,Germany,7,11,Sergio Perez,Aston Martin,10.0,67,30.556,6.0,2018
+207,Germany,8,31,Esteban Ocon,Aston Martin,15.0,67,31.75,4.0,2018
 208,Germany,9,9,Marcus Ericsson,Alfa Romeo Racing Ferrari,13.0,67,32.362,2.0,2018
 209,Germany,10,28,Brendon Hartley,AlphaTauri Honda,16.0,67,34.197,1.0,2018
 220,Hungary,1,44,Lewis Hamilton,Mercedes,1.0,70,37:16.4,25.0,2018
@@ -123,8 +123,8 @@
 241,Belgium,2,44,Lewis Hamilton,Mercedes,1.0,44,11.061,18.0,2018
 242,Belgium,3,33,Max Verstappen,Red Bull Racing Tag Heuer,7.0,44,31.372,15.0,2018
 243,Belgium,4,77,Valtteri Bottas,Mercedes,17.0,44,68.605,12.0,2018
-244,Belgium,5,11,Sergio Perez,Force India Mercedes,4.0,44,71.023,10.0,2018
-245,Belgium,6,31,Esteban Ocon,Force India Mercedes,3.0,44,79.52,8.0,2018
+244,Belgium,5,11,Sergio Perez,Aston Martin,4.0,44,71.023,10.0,2018
+245,Belgium,6,31,Esteban Ocon,Aston Martin,3.0,44,79.52,8.0,2018
 246,Belgium,7,8,Romain Grosjean,Haas Ferrari,5.0,44,85.953,6.0,2018
 247,Belgium,8,20,Kevin Magnussen,Haas Ferrari,9.0,44,87.639,4.0,2018
 248,Belgium,9,10,Pierre Gasly,AlphaTauri Honda,10.0,44,105.892,2.0,2018
@@ -134,8 +134,8 @@
 262,Italy,3,77,Valtteri Bottas,Mercedes,4.0,53,14.066,15.0,2018
 263,Italy,4,5,Sebastian Vettel,Ferrari,2.0,53,16.151,12.0,2018
 264,Italy,5,33,Max Verstappen,Red Bull Racing Tag Heuer,5.0,53,18.208,10.0,2018
-266,Italy,6,31,Esteban Ocon,Force India Mercedes,8.0,53,57.761,8.0,2018
-267,Italy,7,11,Sergio Perez,Force India Mercedes,14.0,53,58.678,6.0,2018
+266,Italy,6,31,Esteban Ocon,Aston Martin,8.0,53,57.761,8.0,2018
+267,Italy,7,11,Sergio Perez,Aston Martin,14.0,53,58.678,6.0,2018
 268,Italy,8,55,Carlos Sainz,Alpine,7.0,53,78.14,4.0,2018
 269,Italy,9,18,Lance Stroll,Williams Mercedes,10.0,52,+1 lap,2.0,2018
 270,Italy,10,35,Sergey Sirotkin,Williams Mercedes,12.0,52,+1 lap,1.0,2018
@@ -157,17 +157,17 @@
 305,Russia,6,3,Daniel Ricciardo,Red Bull Racing Tag Heuer,18.0,53,80.451,8.0,2018
 306,Russia,7,16,Charles Leclerc,Alfa Romeo Racing Ferrari,7.0,53,98.39,6.0,2018
 307,Russia,8,20,Kevin Magnussen,Haas Ferrari,5.0,52,+1 lap,4.0,2018
-308,Russia,9,31,Esteban Ocon,Force India Mercedes,6.0,52,+1 lap,2.0,2018
-309,Russia,10,11,Sergio Perez,Force India Mercedes,8.0,52,+1 lap,1.0,2018
+308,Russia,9,31,Esteban Ocon,Aston Martin,6.0,52,+1 lap,2.0,2018
+309,Russia,10,11,Sergio Perez,Aston Martin,8.0,52,+1 lap,1.0,2018
 320,Japan,1,44,Lewis Hamilton,Mercedes,1.0,53,27:17.1,25.0,2018
 321,Japan,2,77,Valtteri Bottas,Mercedes,2.0,53,12.919,18.0,2018
 322,Japan,3,33,Max Verstappen,Red Bull Racing Tag Heuer,3.0,53,14.295,15.0,2018
 323,Japan,4,3,Daniel Ricciardo,Red Bull Racing Tag Heuer,15.0,53,19.495,12.0,2018
 324,Japan,5,7,Kimi RaikkAAPnen,Ferrari,4.0,53,50.998,10.0,2018
 325,Japan,6,5,Sebastian Vettel,Ferrari,8.0,53,69.873,8.0,2018
-326,Japan,7,11,Sergio Perez,Force India Mercedes,9.0,53,79.379,6.0,2018
+326,Japan,7,11,Sergio Perez,Aston Martin,9.0,53,79.379,6.0,2018
 327,Japan,8,8,Romain Grosjean,Haas Ferrari,5.0,53,87.198,4.0,2018
-328,Japan,9,31,Esteban Ocon,Force India Mercedes,11.0,53,88.055,2.0,2018
+328,Japan,9,31,Esteban Ocon,Aston Martin,11.0,53,88.055,2.0,2018
 329,Japan,10,55,Carlos Sainz,Alpine,13.0,52,+1 lap,1.0,2018
 340,United States,1,7,Kimi RaikkAAPnen,Ferrari,2.0,56,34:18.6,25.0,2018
 341,United States,2,33,Max Verstappen,Red Bull Racing Tag Heuer,18.0,56,1.281,18.0,2018
@@ -176,7 +176,7 @@
 344,United States,5,77,Valtteri Bottas,Mercedes,3.0,56,24.744,10.0,2018
 345,United States,6,27,Nico Hulkenberg,Alpine,7.0,56,87.21,8.0,2018
 346,United States,7,55,Carlos Sainz,Alpine,11.0,56,94.994,6.0,2018
-349,United States,8,11,Sergio Perez,Force India Mercedes,10.0,56,101.08,4.0,2018
+349,United States,8,11,Sergio Perez,Aston Martin,10.0,56,101.08,4.0,2018
 350,United States,9,28,Brendon Hartley,AlphaTauri Honda,20.0,55,+1 lap,2.0,2018
 351,United States,10,9,Marcus Ericsson,Alfa Romeo Racing Ferrari,16.0,55,+1 lap,1.0,2018
 360,Mexico,1,33,Max Verstappen,Red Bull Racing Tag Heuer,2.0,71,38:28.9,25.0,2018
@@ -198,7 +198,7 @@
 386,Brazil,7,16,Charles Leclerc,Alfa Romeo Racing Ferrari,7.0,71,44.199,6.0,2018
 387,Brazil,8,8,Romain Grosjean,Haas Ferrari,8.0,71,51.23,4.0,2018
 388,Brazil,9,20,Kevin Magnussen,Haas Ferrari,10.0,71,52.857,2.0,2018
-389,Brazil,10,11,Sergio Perez,Force India Mercedes,12.0,70,+1 lap,1.0,2018
+389,Brazil,10,11,Sergio Perez,Aston Martin,12.0,70,+1 lap,1.0,2018
 400,Abu Dhabi,1,44,Lewis Hamilton,Mercedes,1.0,55,39:40.4,25.0,2018
 401,Abu Dhabi,2,5,Sebastian Vettel,Ferrari,3.0,55,2.581,18.0,2018
 402,Abu Dhabi,3,33,Max Verstappen,Red Bull Racing Tag Heuer,6.0,55,12.706,15.0,2018
@@ -206,7 +206,7 @@
 404,Abu Dhabi,5,77,Valtteri Bottas,Mercedes,2.0,55,47.957,10.0,2018
 405,Abu Dhabi,6,55,Carlos Sainz,Alpine,11.0,55,72.548,8.0,2018
 406,Abu Dhabi,7,16,Charles Leclerc,Alfa Romeo Racing Ferrari,8.0,55,90.789,6.0,2018
-407,Abu Dhabi,8,11,Sergio Perez,Force India Mercedes,14.0,55,91.275,4.0,2018
+407,Abu Dhabi,8,11,Sergio Perez,Aston Martin,14.0,55,91.275,4.0,2018
 408,Abu Dhabi,9,8,Romain Grosjean,Haas Ferrari,7.0,54,+1 lap,2.0,2018
 409,Abu Dhabi,10,20,Kevin Magnussen,Haas Ferrari,13.0,54,+1 lap,1.0,2018
 420,Australia,1,77,Valtteri Bottas,Mercedes,2.0,58,25:27.3,26.0,2019
@@ -217,7 +217,7 @@
 425,Australia,6,20,Kevin Magnussen,Haas Ferrari,7.0,58,87.156,8.0,2019
 426,Australia,7,27,Nico Hulkenberg,Alpine,11.0,57,+1 lap,6.0,2019
 427,Australia,8,7,Kimi RaikkAAPnen,Alfa Romeo Racing Ferrari,9.0,57,+1 lap,4.0,2019
-428,Australia,9,18,Lance Stroll,Racing Point BWT Mercedes,16.0,57,+1 lap,2.0,2019
+428,Australia,9,18,Lance Stroll,Aston Martin,16.0,57,+1 lap,2.0,2019
 429,Australia,10,26,Daniil Kvyat,AlphaTauri Honda,15.0,57,+1 lap,1.0,2019
 440,Bahrain,1,44,Lewis Hamilton,Mercedes,3.0,57,34:21.3,25.0,2019
 441,Bahrain,2,77,Valtteri Bottas,Mercedes,4.0,57,2.98,18.0,2019
@@ -228,7 +228,7 @@
 446,Bahrain,7,7,Kimi RaikkAAPnen,Alfa Romeo Racing Ferrari,8.0,57,47.47,6.0,2019
 447,Bahrain,8,10,Pierre Gasly,Red Bull Racing Honda,13.0,57,58.094,4.0,2019
 448,Bahrain,9,23,Alexander Albon,AlphaTauri Honda,12.0,57,62.697,2.0,2019
-449,Bahrain,10,11,Sergio Perez,Racing Point BWT Mercedes,14.0,57,63.696,1.0,2019
+449,Bahrain,10,11,Sergio Perez,Aston Martin,14.0,57,63.696,1.0,2019
 460,China,1,44,Lewis Hamilton,Mercedes,2.0,56,32:06.4,25.0,2019
 461,China,2,77,Valtteri Bottas,Mercedes,1.0,56,6.552,18.0,2019
 462,China,3,5,Sebastian Vettel,Ferrari,3.0,56,13.744,15.0,2019
@@ -236,7 +236,7 @@
 464,China,5,16,Charles Leclerc,Ferrari,4.0,56,31.276,10.0,2019
 465,China,6,10,Pierre Gasly,Red Bull Racing Honda,6.0,56,89.307,9.0,2019
 466,China,7,3,Daniel Ricciardo,Alpine,7.0,55,+1 lap,6.0,2019
-467,China,8,11,Sergio Perez,Racing Point BWT Mercedes,12.0,55,+1 lap,4.0,2019
+467,China,8,11,Sergio Perez,Aston Martin,12.0,55,+1 lap,4.0,2019
 468,China,9,7,Kimi RaikkAAPnen,Alfa Romeo Racing Ferrari,13.0,55,+1 lap,2.0,2019
 469,China,10,23,Alexander Albon,AlphaTauri Honda,20.0,55,+1 lap,1.0,2019
 480,Azerbaijan,1,77,Valtteri Bottas,Mercedes,1.0,51,31:52.9,25.0,2019
@@ -244,10 +244,10 @@
 482,Azerbaijan,3,5,Sebastian Vettel,Ferrari,3.0,51,11.739,15.0,2019
 483,Azerbaijan,4,33,Max Verstappen,Red Bull Racing Honda,4.0,51,17.493,12.0,2019
 484,Azerbaijan,5,16,Charles Leclerc,Ferrari,8.0,51,69.107,11.0,2019
-485,Azerbaijan,6,11,Sergio Perez,Racing Point BWT Mercedes,5.0,51,76.416,8.0,2019
+485,Azerbaijan,6,11,Sergio Perez,Aston Martin,5.0,51,76.416,8.0,2019
 486,Azerbaijan,7,55,Carlos Sainz,McLaren Renault,9.0,51,83.826,6.0,2019
 487,Azerbaijan,8,4,Lando Norris,McLaren Renault,7.0,51,100.268,4.0,2019
-488,Azerbaijan,9,18,Lance Stroll,Racing Point BWT Mercedes,13.0,51,103.816,2.0,2019
+488,Azerbaijan,9,18,Lance Stroll,Aston Martin,13.0,51,103.816,2.0,2019
 489,Azerbaijan,10,7,Kimi RaikkAAPnen,Alfa Romeo Racing Ferrari,19.0,50,+1 lap,1.0,2019
 500,Spain,1,44,Lewis Hamilton,Mercedes,2.0,66,35:50.4,26.0,2019
 501,Spain,2,77,Valtteri Bottas,Mercedes,1.0,66,4.074,18.0,2019
@@ -277,7 +277,7 @@
 545,Canada,6,3,Daniel Ricciardo,Alpine,4.0,69,+1 lap,8.0,2019
 546,Canada,7,27,Nico Hulkenberg,Alpine,7.0,69,+1 lap,6.0,2019
 547,Canada,8,10,Pierre Gasly,Red Bull Racing Honda,5.0,69,+1 lap,4.0,2019
-548,Canada,9,18,Lance Stroll,Racing Point BWT Mercedes,17.0,69,+1 lap,2.0,2019
+548,Canada,9,18,Lance Stroll,Aston Martin,17.0,69,+1 lap,2.0,2019
 549,Canada,10,26,Daniil Kvyat,AlphaTauri Honda,10.0,69,+1 lap,1.0,2019
 560,France,1,44,Lewis Hamilton,Mercedes,1.0,53,24:31.2,25.0,2019
 561,France,2,77,Valtteri Bottas,Mercedes,2.0,53,18.056,18.0,2019
@@ -312,7 +312,7 @@
 620,Germany,1,33,Max Verstappen,Red Bull Racing Honda,2.0,64,44:31.3,26.0,2019
 621,Germany,2,5,Sebastian Vettel,Ferrari,20.0,64,7.333,18.0,2019
 622,Germany,3,26,Daniil Kvyat,AlphaTauri Honda,14.0,64,8.305,15.0,2019
-623,Germany,4,18,Lance Stroll,Racing Point BWT Mercedes,15.0,64,8.966,12.0,2019
+623,Germany,4,18,Lance Stroll,Aston Martin,15.0,64,8.966,12.0,2019
 624,Germany,5,55,Carlos Sainz,McLaren Renault,7.0,64,9.583,10.0,2019
 625,Germany,6,23,Alexander Albon,AlphaTauri Honda,16.0,64,10.052,8.0,2019
 626,Germany,7,8,Romain Grosjean,Haas Ferrari,6.0,64,16.838,6.0,2019
@@ -334,18 +334,18 @@
 662,Belgium,3,77,Valtteri Bottas,Mercedes,4.0,44,12.585,15.0,2019
 663,Belgium,4,5,Sebastian Vettel,Ferrari,2.0,44,26.422,13.0,2019
 664,Belgium,5,23,Alexander Albon,Red Bull Racing Honda,17.0,44,81.325,10.0,2019
-665,Belgium,6,11,Sergio Perez,Racing Point BWT Mercedes,7.0,44,84.448,8.0,2019
+665,Belgium,6,11,Sergio Perez,Aston Martin,7.0,44,84.448,8.0,2019
 666,Belgium,7,26,Daniil Kvyat,AlphaTauri Honda,19.0,44,89.657,6.0,2019
 667,Belgium,8,27,Nico Hulkenberg,Alpine,12.0,44,106.639,4.0,2019
 668,Belgium,9,10,Pierre Gasly,AlphaTauri Honda,13.0,44,109.168,2.0,2019
-669,Belgium,10,18,Lance Stroll,Racing Point BWT Mercedes,16.0,44,109.838,1.0,2019
+669,Belgium,10,18,Lance Stroll,Aston Martin,16.0,44,109.838,1.0,2019
 680,Italy,1,16,Charles Leclerc,Ferrari,1.0,53,15:26.7,25.0,2019
 681,Italy,2,77,Valtteri Bottas,Mercedes,3.0,53,0.835,18.0,2019
 682,Italy,3,44,Lewis Hamilton,Mercedes,2.0,53,35.199,16.0,2019
 683,Italy,4,3,Daniel Ricciardo,Alpine,5.0,53,45.515,12.0,2019
 684,Italy,5,27,Nico Hulkenberg,Alpine,6.0,53,58.165,10.0,2019
 685,Italy,6,23,Alexander Albon,Red Bull Racing Honda,8.0,53,59.315,8.0,2019
-686,Italy,7,11,Sergio Perez,Racing Point BWT Mercedes,18.0,53,73.802,6.0,2019
+686,Italy,7,11,Sergio Perez,Aston Martin,18.0,53,73.802,6.0,2019
 687,Italy,8,33,Max Verstappen,Red Bull Racing Honda,19.0,53,74.492,4.0,2019
 688,Italy,9,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,10.0,52,+1 lap,2.0,2019
 689,Italy,10,4,Lando Norris,McLaren Renault,16.0,52,+1 lap,1.0,2019
@@ -365,7 +365,7 @@
 723,Russia,4,33,Max Verstappen,Red Bull Racing Honda,9.0,53,14.21,12.0,2019
 724,Russia,5,23,Alexander Albon,Red Bull Racing Honda,20.0,53,38.348,10.0,2019
 725,Russia,6,55,Carlos Sainz,McLaren Renault,5.0,53,45.889,8.0,2019
-726,Russia,7,11,Sergio Perez,Racing Point BWT Mercedes,11.0,53,48.728,6.0,2019
+726,Russia,7,11,Sergio Perez,Aston Martin,11.0,53,48.728,6.0,2019
 727,Russia,8,4,Lando Norris,McLaren Renault,7.0,53,57.749,4.0,2019
 728,Russia,9,20,Kevin Magnussen,Haas Ferrari,13.0,53,58.779,2.0,2019
 729,Russia,10,27,Nico Hulkenberg,Alpine,6.0,53,59.841,1.0,2019
@@ -376,8 +376,8 @@
 744,Japan,5,55,Carlos Sainz,McLaren Renault,7.0,52,69.101,10.0,2019
 746,Japan,6,16,Charles Leclerc,Ferrari,2.0,51,+1 lap,8.0,2019
 747,Japan,7,10,Pierre Gasly,AlphaTauri Honda,9.0,51,+1 lap,6.0,2019
-748,Japan,8,11,Sergio Perez,Racing Point BWT Mercedes,17.0,51,+1 lap,4.0,2019
-750,Japan,9,18,Lance Stroll,Racing Point BWT Mercedes,12.0,51,+1 lap,2.0,2019
+748,Japan,8,11,Sergio Perez,Aston Martin,17.0,51,+1 lap,4.0,2019
+750,Japan,9,18,Lance Stroll,Aston Martin,12.0,51,+1 lap,2.0,2019
 751,Japan,10,26,Daniil Kvyat,AlphaTauri Honda,14.0,51,+1 lap,1.0,2019
 760,Mexico,1,44,Lewis Hamilton,Mercedes,3.0,71,36:48.9,25.0,2019
 761,Mexico,2,5,Sebastian Vettel,Ferrari,2.0,71,1.766,18.0,2019
@@ -385,7 +385,7 @@
 763,Mexico,4,16,Charles Leclerc,Ferrari,1.0,71,6.368,13.0,2019
 764,Mexico,5,23,Alexander Albon,Red Bull Racing Honda,5.0,71,21.399,10.0,2019
 765,Mexico,6,33,Max Verstappen,Red Bull Racing Honda,4.0,71,68.807,8.0,2019
-766,Mexico,7,11,Sergio Perez,Racing Point BWT Mercedes,11.0,71,73.819,6.0,2019
+766,Mexico,7,11,Sergio Perez,Aston Martin,11.0,71,73.819,6.0,2019
 767,Mexico,8,3,Daniel Ricciardo,Alpine,13.0,71,74.924,4.0,2019
 768,Mexico,9,10,Pierre Gasly,AlphaTauri Honda,10.0,70,+1 lap,2.0,2019
 769,Mexico,10,27,Nico Hulkenberg,Alpine,12.0,70,+1 lap,1.0,2019
@@ -398,7 +398,7 @@
 786,United States,7,4,Lando Norris,McLaren Renault,8.0,56,90.764,6.0,2019
 787,United States,8,55,Carlos Sainz,McLaren Renault,7.0,55,+1 lap,4.0,2019
 788,United States,9,27,Nico Hulkenberg,Alpine,11.0,55,+1 lap,2.0,2019
-789,United States,10,11,Sergio Perez,Racing Point BWT Mercedes,20.0,55,+1 lap,1.0,2019
+789,United States,10,11,Sergio Perez,Aston Martin,20.0,55,+1 lap,1.0,2019
 800,Brazil,1,33,Max Verstappen,Red Bull Racing Honda,1.0,71,33:14.7,25.0,2019
 801,Brazil,2,10,Pierre Gasly,AlphaTauri Honda,6.0,71,6.077,18.0,2019
 802,Brazil,3,55,Carlos Sainz,McLaren Renault,20.0,71,8.896,15.0,2019
@@ -407,7 +407,7 @@
 805,Brazil,6,3,Daniel Ricciardo,Alpine,11.0,71,10.541,8.0,2019
 806,Brazil,7,44,Lewis Hamilton,Mercedes,3.0,71,11.139,6.0,2019
 807,Brazil,8,4,Lando Norris,McLaren Renault,10.0,71,11.204,4.0,2019
-808,Brazil,9,11,Sergio Perez,Racing Point BWT Mercedes,15.0,71,11.529,2.0,2019
+808,Brazil,9,11,Sergio Perez,Aston Martin,15.0,71,11.529,2.0,2019
 809,Brazil,10,26,Daniil Kvyat,AlphaTauri Honda,16.0,71,11.931,1.0,2019
 820,Abu Dhabi,1,44,Lewis Hamilton,Mercedes,1.0,55,34:05.7,26.0,2019
 821,Abu Dhabi,2,33,Max Verstappen,Red Bull Racing Honda,2.0,55,16.772,18.0,2019
@@ -415,7 +415,7 @@
 823,Abu Dhabi,4,77,Valtteri Bottas,Mercedes,20.0,55,44.379,12.0,2019
 824,Abu Dhabi,5,5,Sebastian Vettel,Ferrari,4.0,55,64.357,10.0,2019
 825,Abu Dhabi,6,23,Alexander Albon,Red Bull Racing Honda,5.0,55,69.205,8.0,2019
-826,Abu Dhabi,7,11,Sergio Perez,Racing Point BWT Mercedes,10.0,54,+1 lap,6.0,2019
+826,Abu Dhabi,7,11,Sergio Perez,Aston Martin,10.0,54,+1 lap,6.0,2019
 827,Abu Dhabi,8,4,Lando Norris,McLaren Renault,6.0,54,+1 lap,4.0,2019
 828,Abu Dhabi,9,26,Daniil Kvyat,AlphaTauri Honda,13.0,54,+1 lap,2.0,2019
 829,Abu Dhabi,10,55,Carlos Sainz,McLaren Renault,8.0,54,+1 lap,1.0,2019
@@ -424,7 +424,7 @@
 842,Austria,3,4,Lando Norris,McLaren Renault,3.0,71,5.491,16.0,2020
 843,Austria,4,44,Lewis Hamilton,Mercedes,5.0,71,5.689,12.0,2020
 844,Austria,5,55,Carlos Sainz,McLaren Renault,8.0,71,8.903,10.0,2020
-845,Austria,6,11,Sergio Perez,Racing Point BWT Mercedes,6.0,71,15.092,8.0,2020
+845,Austria,6,11,Sergio Perez,Aston Martin,6.0,71,15.092,8.0,2020
 846,Austria,7,10,Pierre Gasly,AlphaTauri Honda,12.0,71,16.682,6.0,2020
 847,Austria,8,31,Esteban Ocon,Alpine,14.0,71,17.456,4.0,2020
 848,Austria,9,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18.0,71,21.146,2.0,2020
@@ -434,18 +434,18 @@
 862,Styria,3,33,Max Verstappen,Red Bull Racing Honda,2.0,71,33.698,15.0,2020
 863,Styria,4,23,Alexander Albon,Red Bull Racing Honda,6.0,71,44.4,12.0,2020
 864,Styria,5,4,Lando Norris,McLaren Renault,9.0,71,61.47,10.0,2020
-865,Styria,6,11,Sergio Perez,Racing Point BWT Mercedes,17.0,71,62.387,8.0,2020
-866,Styria,7,18,Lance Stroll,Racing Point BWT Mercedes,12.0,71,62.453,6.0,2020
+865,Styria,6,11,Sergio Perez,Aston Martin,17.0,71,62.387,8.0,2020
+866,Styria,7,18,Lance Stroll,Aston Martin,12.0,71,62.453,6.0,2020
 867,Styria,8,3,Daniel Ricciardo,Alpine,8.0,71,62.591,4.0,2020
 868,Styria,9,55,Carlos Sainz,McLaren Renault,3.0,70,+1 lap,3.0,2020
 869,Styria,10,26,Daniil Kvyat,AlphaTauri Honda,13.0,70,+1 lap,1.0,2020
 880,Hungary,1,44,Lewis Hamilton,Mercedes,1.0,70,36:12.5,26.0,2020
 881,Hungary,2,33,Max Verstappen,Red Bull Racing Honda,7.0,70,8.702,18.0,2020
 882,Hungary,3,77,Valtteri Bottas,Mercedes,2.0,70,9.452,15.0,2020
-883,Hungary,4,18,Lance Stroll,Racing Point BWT Mercedes,3.0,70,57.579,12.0,2020
+883,Hungary,4,18,Lance Stroll,Aston Martin,3.0,70,57.579,12.0,2020
 884,Hungary,5,23,Alexander Albon,Red Bull Racing Honda,13.0,70,78.316,10.0,2020
 885,Hungary,6,5,Sebastian Vettel,Ferrari,5.0,69,+1 lap,8.0,2020
-886,Hungary,7,11,Sergio Perez,Racing Point BWT Mercedes,4.0,69,+1 lap,6.0,2020
+886,Hungary,7,11,Sergio Perez,Aston Martin,4.0,69,+1 lap,6.0,2020
 887,Hungary,8,3,Daniel Ricciardo,Alpine,11.0,69,+1 lap,4.0,2020
 888,Hungary,9,55,Carlos Sainz,McLaren Renault,9.0,69,+1 lap,2.0,2020
 889,Hungary,10,20,Kevin Magnussen,Haas Ferrari,16.0,69,+1 lap,1.0,2020
@@ -457,23 +457,23 @@
 905,Great Britain,6,31,Esteban Ocon,Alpine,9.0,52,26.937,8.0,2020
 906,Great Britain,7,10,Pierre Gasly,AlphaTauri Honda,11.0,52,31.188,6.0,2020
 907,Great Britain,8,23,Alexander Albon,Red Bull Racing Honda,12.0,52,32.67,4.0,2020
-908,Great Britain,9,18,Lance Stroll,Racing Point BWT Mercedes,6.0,52,37.311,2.0,2020
+908,Great Britain,9,18,Lance Stroll,Aston Martin,6.0,52,37.311,2.0,2020
 909,Great Britain,10,5,Sebastian Vettel,Ferrari,10.0,52,41.857,1.0,2020
 920,70th Anniversary,1,33,Max Verstappen,Red Bull Racing Honda,4.0,52,19:42.0,25.0,2020
 921,70th Anniversary,2,44,Lewis Hamilton,Mercedes,2.0,52,11.326,19.0,2020
 922,70th Anniversary,3,77,Valtteri Bottas,Mercedes,1.0,52,19.231,15.0,2020
 923,70th Anniversary,4,16,Charles Leclerc,Ferrari,8.0,52,29.289,12.0,2020
 924,70th Anniversary,5,23,Alexander Albon,Red Bull Racing Honda,9.0,52,39.146,10.0,2020
-925,70th Anniversary,6,18,Lance Stroll,Racing Point BWT Mercedes,6.0,52,42.538,8.0,2020
-926,70th Anniversary,7,27,Nico Hulkenberg,Racing Point BWT Mercedes,3.0,52,55.951,6.0,2020
+925,70th Anniversary,6,18,Lance Stroll,Aston Martin,6.0,52,42.538,8.0,2020
+926,70th Anniversary,7,27,Nico Hulkenberg,Aston Martin,3.0,52,55.951,6.0,2020
 927,70th Anniversary,8,31,Esteban Ocon,Alpine,14.0,52,64.773,4.0,2020
 928,70th Anniversary,9,4,Lando Norris,McLaren Renault,10.0,52,65.544,2.0,2020
 929,70th Anniversary,10,26,Daniil Kvyat,AlphaTauri Honda,16.0,52,69.669,1.0,2020
 940,Spain,1,44,Lewis Hamilton,Mercedes,1.0,66,31:45.3,25.0,2020
 941,Spain,2,33,Max Verstappen,Red Bull Racing Honda,3.0,66,24.177,18.0,2020
 942,Spain,3,77,Valtteri Bottas,Mercedes,2.0,66,44.752,16.0,2020
-943,Spain,4,18,Lance Stroll,Racing Point BWT Mercedes,5.0,65,+1 lap,12.0,2020
-944,Spain,5,11,Sergio Perez,Racing Point BWT Mercedes,4.0,65,+1 lap,10.0,2020
+943,Spain,4,18,Lance Stroll,Aston Martin,5.0,65,+1 lap,12.0,2020
+944,Spain,5,11,Sergio Perez,Aston Martin,4.0,65,+1 lap,10.0,2020
 945,Spain,6,55,Carlos Sainz,McLaren Renault,7.0,65,+1 lap,8.0,2020
 946,Spain,7,5,Sebastian Vettel,Ferrari,11.0,65,+1 lap,6.0,2020
 947,Spain,8,23,Alexander Albon,Red Bull Racing Honda,6.0,65,+1 lap,4.0,2020
@@ -487,23 +487,23 @@
 965,Belgium,6,23,Alexander Albon,Red Bull Racing Honda,5.0,44,42.712,8.0,2020
 966,Belgium,7,4,Lando Norris,McLaren Renault,10.0,44,43.774,6.0,2020
 967,Belgium,8,10,Pierre Gasly,AlphaTauri Honda,12.0,44,47.371,4.0,2020
-968,Belgium,9,18,Lance Stroll,Racing Point BWT Mercedes,9.0,44,52.603,2.0,2020
-969,Belgium,10,11,Sergio Perez,Racing Point BWT Mercedes,8.0,44,53.179,1.0,2020
+968,Belgium,9,18,Lance Stroll,Aston Martin,9.0,44,52.603,2.0,2020
+969,Belgium,10,11,Sergio Perez,Aston Martin,8.0,44,53.179,1.0,2020
 980,Italy,1,10,Pierre Gasly,AlphaTauri Honda,1.0,53,47:06.1,25.0,2020
 981,Italy,2,55,Carlos Sainz,McLaren Renault,3.0,53,0.415,18.0,2020
-982,Italy,3,18,Lance Stroll,Racing Point BWT Mercedes,8.0,53,3.358,15.0,2020
+982,Italy,3,18,Lance Stroll,Aston Martin,8.0,53,3.358,15.0,2020
 983,Italy,4,4,Lando Norris,McLaren Renault,6.0,53,6,12.0,2020
 984,Italy,5,77,Valtteri Bottas,Mercedes,2.0,53,7.108,10.0,2020
 985,Italy,6,3,Daniel Ricciardo,Alpine,7.0,53,8.391,8.0,2020
 986,Italy,7,44,Lewis Hamilton,Mercedes,1.0,53,17.245,7.0,2020
 987,Italy,8,31,Esteban Ocon,Alpine,12.0,53,18.691,4.0,2020
 988,Italy,9,26,Daniil Kvyat,AlphaTauri Honda,11.0,53,22.208,2.0,2020
-989,Italy,10,11,Sergio Perez,Racing Point BWT Mercedes,4.0,53,23.224,1.0,2020
+989,Italy,10,11,Sergio Perez,Aston Martin,4.0,53,23.224,1.0,2020
 1000,Tuscany,1,44,Lewis Hamilton,Mercedes,1.0,59,19:35.1,26.0,2020
 1001,Tuscany,2,77,Valtteri Bottas,Mercedes,2.0,59,4.88,18.0,2020
 1002,Tuscany,3,23,Alexander Albon,Red Bull Racing Honda,4.0,59,8.064,15.0,2020
 1003,Tuscany,4,3,Daniel Ricciardo,Alpine,8.0,59,10.417,12.0,2020
-1004,Tuscany,5,11,Sergio Perez,Racing Point BWT Mercedes,7.0,59,15.65,10.0,2020
+1004,Tuscany,5,11,Sergio Perez,Aston Martin,7.0,59,15.65,10.0,2020
 1005,Tuscany,6,4,Lando Norris,McLaren Renault,11.0,59,18.883,8.0,2020
 1006,Tuscany,7,26,Daniil Kvyat,AlphaTauri Honda,12.0,59,21.756,6.0,2020
 1007,Tuscany,8,16,Charles Leclerc,Ferrari,5.0,59,28.345,4.0,2020
@@ -512,7 +512,7 @@
 1020,Russia,1,77,Valtteri Bottas,Mercedes,3.0,53,34:00.4,26.0,2020
 1021,Russia,2,33,Max Verstappen,Red Bull Racing Honda,2.0,53,7.729,18.0,2020
 1022,Russia,3,44,Lewis Hamilton,Mercedes,1.0,53,22.729,15.0,2020
-1023,Russia,4,11,Sergio Perez,Racing Point BWT Mercedes,4.0,53,30.558,12.0,2020
+1023,Russia,4,11,Sergio Perez,Aston Martin,4.0,53,30.558,12.0,2020
 1024,Russia,5,3,Daniel Ricciardo,Alpine,5.0,53,52.065,10.0,2020
 1025,Russia,6,16,Charles Leclerc,Ferrari,10.0,53,62.186,8.0,2020
 1026,Russia,7,31,Esteban Ocon,Alpine,7.0,53,68.006,6.0,2020
@@ -522,11 +522,11 @@
 1040,Eifel,1,44,Lewis Hamilton,Mercedes,2.0,60,35:49.6,25.0,2020
 1041,Eifel,2,33,Max Verstappen,Red Bull Racing Honda,3.0,60,4.47,19.0,2020
 1042,Eifel,3,3,Daniel Ricciardo,Alpine,6.0,60,14.631,15.0,2020
-1043,Eifel,4,11,Sergio Perez,Racing Point BWT Mercedes,9.0,60,16.07,12.0,2020
+1043,Eifel,4,11,Sergio Perez,Aston Martin,9.0,60,16.07,12.0,2020
 1044,Eifel,5,55,Carlos Sainz,McLaren Renault,10.0,60,21.905,10.0,2020
 1045,Eifel,6,10,Pierre Gasly,AlphaTauri Honda,12.0,60,22.766,8.0,2020
 1046,Eifel,7,16,Charles Leclerc,Ferrari,4.0,60,30.841,6.0,2020
-1047,Eifel,8,27,Nico Hulkenberg,Racing Point BWT Mercedes,20.0,60,32.596,4.0,2020
+1047,Eifel,8,27,Nico Hulkenberg,Aston Martin,20.0,60,32.596,4.0,2020
 1048,Eifel,9,8,Romain Grosjean,Haas Ferrari,16.0,60,39.081,2.0,2020
 1049,Eifel,10,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14.0,60,40.035,1.0,2020
 1060,Portugal,1,44,Lewis Hamilton,Mercedes,1.0,66,29:56.8,26.0,2020
@@ -535,7 +535,7 @@
 1063,Portugal,4,16,Charles Leclerc,Ferrari,4.0,66,65.312,12.0,2020
 1064,Portugal,5,10,Pierre Gasly,AlphaTauri Honda,9.0,65,+1 lap,10.0,2020
 1065,Portugal,6,55,Carlos Sainz,McLaren Renault,7.0,65,+1 lap,8.0,2020
-1066,Portugal,7,11,Sergio Perez,Racing Point BWT Mercedes,5.0,65,+1 lap,6.0,2020
+1066,Portugal,7,11,Sergio Perez,Aston Martin,5.0,65,+1 lap,6.0,2020
 1067,Portugal,8,31,Esteban Ocon,Alpine,11.0,65,+1 lap,4.0,2020
 1068,Portugal,9,3,Daniel Ricciardo,Alpine,10.0,65,+1 lap,2.0,2020
 1069,Portugal,10,5,Sebastian Vettel,Ferrari,15.0,65,+1 lap,1.0,2020
@@ -544,20 +544,20 @@
 1082,Emilia Romagna,3,3,Daniel Ricciardo,Alpine,5.0,63,14.32,15.0,2020
 1083,Emilia Romagna,4,26,Daniil Kvyat,AlphaTauri Honda,8.0,63,15.141,12.0,2020
 1084,Emilia Romagna,5,16,Charles Leclerc,Ferrari,7.0,63,19.111,10.0,2020
-1085,Emilia Romagna,6,11,Sergio Perez,Racing Point BWT Mercedes,11.0,63,19.652,8.0,2020
+1085,Emilia Romagna,6,11,Sergio Perez,Aston Martin,11.0,63,19.652,8.0,2020
 1086,Emilia Romagna,7,55,Carlos Sainz,McLaren Renault,10.0,63,20.23,6.0,2020
 1087,Emilia Romagna,8,4,Lando Norris,McLaren Renault,9.0,63,21.131,4.0,2020
 1088,Emilia Romagna,9,7,Kimi RaikkAAPnen,Alfa Romeo Racing Ferrari,18.0,63,22.224,2.0,2020
 1089,Emilia Romagna,10,99,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,20.0,63,26.398,1.0,2020
 1100,Turkey,1,44,Lewis Hamilton,Mercedes,6.0,58,42:19.3,25.0,2020
-1101,Turkey,2,11,Sergio Perez,Racing Point BWT Mercedes,3.0,58,31.633,18.0,2020
+1101,Turkey,2,11,Sergio Perez,Aston Martin,3.0,58,31.633,18.0,2020
 1102,Turkey,3,5,Sebastian Vettel,Ferrari,11.0,58,31.96,15.0,2020
 1103,Turkey,4,16,Charles Leclerc,Ferrari,12.0,58,33.858,12.0,2020
 1104,Turkey,5,55,Carlos Sainz,McLaren Renault,15.0,58,34.363,10.0,2020
 1105,Turkey,6,33,Max Verstappen,Red Bull Racing Honda,2.0,58,44.873,8.0,2020
 1106,Turkey,7,23,Alexander Albon,Red Bull Racing Honda,4.0,58,46.484,6.0,2020
 1107,Turkey,8,4,Lando Norris,McLaren Renault,14.0,58,61.259,5.0,2020
-1108,Turkey,9,18,Lance Stroll,Racing Point BWT Mercedes,1.0,58,72.353,2.0,2020
+1108,Turkey,9,18,Lance Stroll,Aston Martin,1.0,58,72.353,2.0,2020
 1109,Turkey,10,3,Daniel Ricciardo,Alpine,5.0,58,95.46,1.0,2020
 1120,Bahrain,1,44,Lewis Hamilton,Mercedes,1.0,57,59:47.5,25.0,2020
 1121,Bahrain,2,33,Max Verstappen,Red Bull Racing Honda,3.0,57,1.254,19.0,2020
@@ -569,9 +569,9 @@
 1127,Bahrain,8,77,Valtteri Bottas,Mercedes,2.0,57,19.68,4.0,2020
 1128,Bahrain,9,31,Esteban Ocon,Alpine,7.0,57,22.803,2.0,2020
 1129,Bahrain,10,16,Charles Leclerc,Ferrari,12.0,56,+1 lap,1.0,2020
-1140,Sakhir,1,11,Sergio Perez,Racing Point BWT Mercedes,5.0,87,31:15.1,25.0,2020
+1140,Sakhir,1,11,Sergio Perez,Aston Martin,5.0,87,31:15.1,25.0,2020
 1141,Sakhir,2,31,Esteban Ocon,Alpine,11.0,87,10.518,18.0,2020
-1142,Sakhir,3,18,Lance Stroll,Racing Point BWT Mercedes,10.0,87,11.869,15.0,2020
+1142,Sakhir,3,18,Lance Stroll,Aston Martin,10.0,87,11.869,15.0,2020
 1143,Sakhir,4,55,Carlos Sainz,McLaren Renault,8.0,87,12.58,12.0,2020
 1144,Sakhir,5,3,Daniel Ricciardo,Alpine,7.0,87,13.33,10.0,2020
 1145,Sakhir,6,23,Alexander Albon,Red Bull Racing Honda,12.0,87,13.842,8.0,2020
@@ -588,7 +588,7 @@
 1166,Abu Dhabi,7,3,Daniel Ricciardo,Alpine,11.0,55,73.748,7.0,2020
 1167,Abu Dhabi,8,10,Pierre Gasly,AlphaTauri Honda,9.0,55,89.718,4.0,2020
 1168,Abu Dhabi,9,31,Esteban Ocon,Alpine,10.0,55,101.069,2.0,2020
-1169,Abu Dhabi,10,18,Lance Stroll,Racing Point BWT Mercedes,8.0,55,102.738,1.0,2020
+1169,Abu Dhabi,10,18,Lance Stroll,Aston Martin,8.0,55,102.738,1.0,2020
 1180,Bahrain,1,44,Lewis Hamilton,Mercedes,2.0,56,32:03.9,25.0,2021
 1181,Bahrain,2,33,Max Verstappen,Red Bull Racing Honda,1.0,56,0.745,18.0,2021
 1182,Bahrain,3,77,Valtteri Bottas,Mercedes,3.0,56,37.383,16.0,2021
