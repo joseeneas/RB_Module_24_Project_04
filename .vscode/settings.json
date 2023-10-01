@@ -2,10 +2,16 @@
     "cSpell.ignoreWords": [
         "asciutto",
         "coperto",
+        "newpred",
         "nuvoloso",
         "pioggia",
         "pymongo",
         "sereno",
         "soleggiato"
+    ],
+    "cSpell.words": [
+        "dateutil",
+        "logspace",
+        "relativedelta"
     ]
 }
