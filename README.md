@@ -33,3 +33,11 @@ Refer to Documents/Project 4 - Group 3 - Proposal.PPTX
 ### Resources - Folder for Project Resources, such as CSV files, etc
 
 ### README.md - This file
+
+## Other considerations
+
+The code created for this project is based on the following:
+
+1. <https://towardsdatascience.com/formula-1-race-predictor-5d4bfae887da?source=user_profile---------2----------------------------> - Academic Article
+2. <https://gist.github.com/veronicanigro> - Sample Code
+3. <https://github.com/toUpperCase78/formula1-datasets/tree/master> - Sample Code
