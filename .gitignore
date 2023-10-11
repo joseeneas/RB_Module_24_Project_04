@@ -159,3 +159,20 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+Sample_Code
+Sample_Code/01-races_df.py
+Sample_Code/02-results_df.py
+Sample_Code/03-driver_standings_df.py
+Sample_Code/04-constructor_standings_df.py
+Sample_Code/05-qualifying_df.py
+Sample_Code/06-weather_df.py
+Sample_Code/07-merged_df.py
+Sample_Code/08-F1_regression_func.py
+Sample_Code/09-F1_classification_func.py
+Sample_Code/10-F1_regression.py
+Sample_Code/11-F1_classification.py
+.vscode/settings.json
+.gitignore
+Notebooks/.vscode/settings.json
+.vscode/settings.json
+.vscode/settings.json
